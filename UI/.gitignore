@@ -4,7 +4,7 @@
 .classpath
 
 # npm files
-package-lock.json
+# package-lock.json
 
 # Logs
 logs
@@ -39,10 +39,10 @@ build/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
+# node_modules
 
 # Bower intermediate storage
-bower_components
+# bower_components
 
 # Project specific artifacts
 src/**/*.css
